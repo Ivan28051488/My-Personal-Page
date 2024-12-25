@@ -1,0 +1,16 @@
+h1,
+p {
+  color: rgb(5, 119, 49);
+  text-align: center;
+  text-shadow: 0 0 10px;
+  font-family: Courier, monospase;
+}
+
+a {
+  display: block;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(26, 25, 25);
+}
